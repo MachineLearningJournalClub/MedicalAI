@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="690" height="300" src="https://github.com/MachineLearningJournalClub/MedicalAI/edit/main/Medical_Machine_Learning.jpg">
+</p>
+
 # MedicalAI and BCI
 Welcome to the Medical AI group of the Machine Learning Journal Club! 
 Here at MLJC we believe that AI techniques and tools can aid people and doctors in many different ways. For this reason, we decided to start the MedicAI project to explore and make contributions to this area.
