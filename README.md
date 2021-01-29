@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://www.healtheuropa.eu/wp-content/uploads/2020/03/iStock-metamorworks-696x392.jpg">
+  <figcaption>© iStock/metamorworks</figcaption>
+</p>
+
 # MedicalAI and BCI
 Welcome to the Medical AI group of the Machine Learning Journal Club! 
 Here at MLJC we believe that AI techniques and tools can aid people and doctors in many different ways. For this reason, we decided to start the MedicAI project to explore and make contributions to this area.
