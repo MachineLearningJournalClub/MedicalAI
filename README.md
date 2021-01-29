@@ -1,5 +1,17 @@
-# MedicalAI
-MedicalAI : BCIs and Machine Learning in Healthcare 
+# MedicalAI and BCI
+Welcome to the Medical AI group of the Machine Learning Journal Club! 
+Here at MLJC we believe that AI techniques and tools can aid people and doctors in many different ways. For this reason, we decided to start the MedicAI project to explore and make contributions to this area.
+To join us for these research, we offer tutorials that allow you to understand the world of BCIs.
+
+## Didactical BCI
+
+Before starting work on a projects, let's define a didactical path for newcomers.
+
+* Recommended tutorials: https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design - http://learn.neurotechedu.com/introtobci/ - https://medium.com/svilenk/bciguide-246a9ca76fcd - http://www.neuromatchacademy.org/syllabus/ -
+http://learn.neurotechedu.com/lessons/
+* Books:
+Il cervello elettrico - Simone Rossi (lettura non tecnica, più di piacere)
+Didactical code:
 
 ## EEG analysis Reviews
 
@@ -11,17 +23,6 @@ https://hal.inria.fr/hal-01846433/document
 
 https://iopscience.iop.org/article/10.1088/1741-2552/ab260c
 https://iopscience.iop.org/article/10.1088/1741-2552/ab0ab5
-
-
-## Didactical BCI
-
-Before starting work on a projects, let's define a didactical path for newcomers.
-
-* Recommended tutorials: https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design - http://learn.neurotechedu.com/introtobci/ - https://medium.com/svilenk/bciguide-246a9ca76fcd - http://www.neuromatchacademy.org/syllabus/ -
-http://learn.neurotechedu.com/lessons/
-* Books:
-Il cervello elettrico - Simone Rossi (lettura non tecnica, più di piacere)
-Didactical code:
 
 ## BCI Code Materials 
 
