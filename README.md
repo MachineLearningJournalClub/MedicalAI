@@ -24,6 +24,11 @@ Here, we propose an interesting review on BCIs classification algorithms:
 Books:
 - Il cervello elettrico - Simone Rossi (non-technical reading, just for pleasure)
 
+## Spring School G-TEC
+
+Here there is the spring school we will attend all together:
+- https://www.gtec.at/spring-school-2021/
+
 ## EEG analysis Reviews
 
 In this section, we offer two reviews on deep learning based EEG analysis:
