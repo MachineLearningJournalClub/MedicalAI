@@ -33,6 +33,7 @@ Here there is the spring school we will attend all together:
 
 An interesting review on BCIs classification algorithms:
  - https://hal.inria.fr/hal-01846433/document
+
 In this section, we offer two reviews on deep learning based EEG analysis:
 - https://iopscience.iop.org/article/10.1088/1741-2552/ab260c
 - https://iopscience.iop.org/article/10.1088/1741-2552/ab0ab5
